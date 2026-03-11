@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sw/suEe8EB0=",
+  "dgSpecHash": "q16QVl1/HGE=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Dejan\\Desktop\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Dejan\\Desktop\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dejan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Dejan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

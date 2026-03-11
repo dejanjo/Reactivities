@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qOuGR9lQIVU=",
+  "dgSpecHash": "yGThBvoMjNM=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Dejan\\Desktop\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Dejan\\Desktop\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dejan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Dejan\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

@@ -4,14 +4,14 @@
     "C:\\Users\\Dejan\\Desktop\\Reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -373,8 +373,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "c:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Dejan\\Desktop\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
